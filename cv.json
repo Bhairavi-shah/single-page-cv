@@ -1,0 +1,176 @@
+{
+    "basics": {
+        "name": "Bhairavi Sameer Shah",
+        "title": "Technical Lead",
+        "location": "Bengaluru, Karnataka, India",
+        "phone": "+91 9061344877",
+        "email": "bhairavisameershah@gmail.com",
+        "links": [
+            { "label": "LinkedIn", "url": "https://www.linkedin.com/in/bhairavi-shah" },
+            { "label": "GitHub", "url": "https://github.com/Bhairavi-shah" },
+            { "label": "Email", "url": "mailto:bhairavisameershah@gmail.com" }
+        ]
+    },
+    "skills": [
+        "Go", "Python", "HTML", "CSS", "JavaScript",
+        "MySQL", "ArangoDB", "ClickHouse", "Redis", "MongoDB",
+        "Kafka", "RabbitMQ", "Grafana", "Prometheus",
+        "Docker", "Git", "AWS", "GCP"
+    ],
+    "education": [
+        {
+            "school": "Govt. Model Engineering College (APJ Abdul Kalam Technological University)",
+            "degree": "BTech in Computer Science and Engineering",
+            "location": "Kochi, Kerala",
+            "start": { "iso": "2016", "label": "2016" },
+            "end": { "iso": "2020", "label": "2020" },
+            "highlights": [
+                "8.54 CGPA"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "redBus India Pvt. Ltd.",
+            "title": "Technical Lead",
+            "location": "Bengaluru, India",
+            "start": { "iso": "2025-01", "label": "Jan 2025" },
+            "end": { "iso": "present", "label": "Present" },
+            "url": "https://www.redbus.in/",
+            "achievements": [
+                "Spearheaded sprint ceremonies (standups, planning, grooming) driving alignment and delivery.",
+                "Owned release cycles end-to-end: scope, deployment coordination, post-release stability monitoring.",
+                "Built centralized script monitoring dashboard improving observability and reducing debugging time.",
+                "Led centralized localization system integrated with MakeMyTrip Polyglot using Go, MongoDB, Redis.",
+                "Improved memory utilization by ~80% on data scheduler via event-driven Kafka pipeline in Go.",
+                "Led cross-functional solutioning balancing product goals and technical standards.",
+                "Drove AI-assisted development and code reviews leveraging GitHub Copilot."
+            ],
+            "skills": ["Go", "MongoDB", "Redis", "Kafka", "Microservices", "Observability"]
+        },
+        {
+            "company": "redBus India Pvt. Ltd.",
+            "title": "Senior Software Engineer",
+            "location": "Bengaluru, India",
+            "start": { "iso": "2023-01", "label": "Jan 2023" },
+            "end": { "iso": "2024-12", "label": "Dec 2024" },
+            "url": "https://www.redbus.in/",
+            "achievements": [
+                "Stabilized ArangoDB restarts for SEO system supporting large data loads.",
+                "Enhanced SEO APIs via Redis; cut app start time by 1.5 minutes; reduced 4xx/5xx alerts.",
+                "Lifted UGC engagement ~15% and rating collection ~4% through contributions to the team.",
+                "Migrated Insurance system from .NET to Go + MySQL in 3 months with high reliability.",
+                "Mentored juniors; improved code quality ~20% via reviews and best practices.",
+                "Optimized Python scheduler with multiprocessing/threading, reducing runtime."
+            ],
+            "skills": ["ArangoDB", "Redis", "Go", ".NET", "MySQL", "Python", "Mentoring"]
+        },
+        {
+            "company": "redBus India Pvt. Ltd.",
+            "title": "Software Engineer",
+            "location": "Bengaluru, India",
+            "start": { "iso": "2020-09", "label": "Sep 2020" },
+            "end": { "iso": "2022-12", "label": "Dec 2022" },
+            "url": "https://www.redbus.in/",
+            "achievements": [
+                "Engineered REST APIs and consumer services in Go; integrated RabbitMQ and Kafka.",
+                "Developed Python automation scripts to reduce manual workload and improve efficiency.",
+                "Achieved ~80% query performance gains via optimization and indexing (ArangoDB, ClickHouse).",
+                "Sole developer for UGC team handling maintenance, alerts, and new product requirements.",
+                "Collaborated with stakeholders; documented project changes thoroughly."
+            ],
+            "skills": ["Go", "RabbitMQ", "Kafka", "Python", "ArangoDB", "ClickHouse"]
+        },
+        {
+            "company": "Techvantage Analytics",
+            "title": "Data Analytics Intern",
+            "location": "India",
+            "start": { "iso": "2019-06", "label": "Jun 2019" },
+            "end": { "iso": "2019-08", "label": "Aug 2019" },
+            "url": "https://www.techvantagesystems.com/",
+            "achievements": [
+                "Worked on video content analysis for deception detection using NLP and ML.",
+                "Automated document data extraction with Python + OpenCV for insurance claims."
+            ],
+            "skills": ["Python", "OpenCV", "NLP", "ML"]
+        },
+        {
+            "company": "FullContact Technologies",
+            "title": "Full Stack Development Intern",
+            "location": "India",
+            "start": { "iso": "2018-06", "label": "Jun 2018" },
+            "end": { "iso": "2018-08", "label": "Aug 2018" },
+            "url": "https://www.fullcontact.com/",
+            "achievements": [
+                "Built an internal issue ticketing system (Flask, Python, HTML, CSS).",
+                "Created Python automation scripts to improve operational efficiency."
+            ],
+            "skills": ["Flask", "Python", "HTML", "CSS"]
+        },
+        {
+            "company": "AnitaB.Org India",
+            "title": "Developer (Project)",
+            "location": "India",
+            "start": { "iso": "2018-09", "label": "Sep 2018" },
+            "end": { "iso": "2018-11", "label": "Nov 2018" },
+            "url": "https://anitabindia.org/",
+            "achievements": [
+                "Developed a Google Assistant chatbot using Dialogflow for GHCI information access."
+            ],
+            "skills": ["Dialogflow", "Chatbots"]
+        }
+    ],
+    "collegeSkills": [
+        "C", "Pandas", "NumPy", "scikit-learn", "Flask", "React", "OpenCV",
+        "Raspberry Pi", "Google Analytics", "Airflow"
+    ],
+    "projects": [
+        {
+            "name": "Abstractive User Review Summary Generation",
+            "duration": "6 months",
+            "teamSize": 4,
+            "stack": ["Python", "Flask", "HTML", "CSS", "React"],
+            "summary": "Abstractive text summarization using deep learning and NLP to condense product reviews into concise summaries.",
+            "url": "https://ijircce.com/upload/2020/May/21_T2r1erw.pdf"
+        },
+        {
+            "name": "Sherlock Holmes",
+            "duration": "3 months",
+            "teamSize": 3,
+            "stack": ["Python", "Raspberry Pi", "OpenCV"],
+            "summary": "Home security system with face recognition, email alerts, and live video streaming.",
+            "url": "https://github.com/Bhairavi-shah/Sherlock-Holmes"
+        }
+    ],
+    "publications": [
+        {
+            "title": "Abstractive Summarization of Product Reviews with Sentiment Analysis",
+            "venue": "International Journal of Innovative Research in Computer and Communication Engineering",
+            "date": "May 2020",
+            "summary": "Neural network, sequence-to-sequence model with attention mechanism for summarizing e-commerce reviews with sentiment.",
+            "url": "https://ijircce.com/admin/main/storage/app/pdf/VzHKvmjKhHY1dhIAmbj6zgOmXbgTOMcGnkBPlKBZ.pdf"
+        }
+    ],
+    "achievements": [
+        "Top 10 of 49 teams in Makeathon 2022 (redBus)",
+        "Trailblazer Award at redBus (2021-22 Q2)",
+        "Rank 35 in GirlScript Summer Of Code (2019)",
+        "Scholarship from Palo Alto Networks to attend GHCI 2018",
+        "Third in MECLabs project presentation, Excel 2017"
+    ],
+    "certifications": [
+        "ArangoDB Certified Professional",
+        "CS50 Puzzle Day 2020",
+        "DeepLearning.AI TensorFlow Developer (Coursera)",
+        "Architecting with Google Compute Engine Specialization"
+    ],
+    "extracurricular": [
+        "Social Initiatives Manager, Excel 2019 (MEC)",
+        "Organizer, TEDxMEC 2018, 2019",
+        "Technical Project Mentor, Labyrinth (Pehia Foundation)",
+        "Academic Support Volunteer, Make a Difference (MAD)",
+        "Program Coach - Women in Tech, Rethink Foundation",
+        "Secretary, MEC Association of Computer Science"
+    ]
+}
+
