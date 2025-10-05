@@ -30,3 +30,6 @@ This project demonstrates how to structure a clean, semantic, single-page CV in 
 - SEO meta tags in the head section.
 - OG tags for better social media sharing.
 - A favicon linked in the head section.
+
+### Public Roadmap.sh URL
+- https://roadmap.sh/projects/single-page-cv/solutions?u=64e0829fced78d29352a91ac
